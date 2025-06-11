@@ -9,6 +9,8 @@ I have chosen to use FreeCAD for the models since it is a beginner friendly soft
 
 ## Contents
 
+All models contain previews
+
 - [`stem/`](stem/) - A stem model
 - ['DCmotor/'](DCmotor/) - A model of a brushed DC motor, contains a macro for simulating its rotation
 
