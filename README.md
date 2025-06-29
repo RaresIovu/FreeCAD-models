@@ -13,6 +13,7 @@ All models contain previews
 
 - [`stem/`](stem/) - A stem model
 - ['DCmotor/'](DCmotor/) - A model of a brushed DC motor, contains a macro for simulating its rotation
+- ['DJ/'](DJ/) - A model of a person
 
 ## Requirements
 
