@@ -12,9 +12,9 @@ I have chosen to use FreeCAD for the models since it is a beginner friendly soft
 All models contain previews
 
 - [`stem/`](stem/) - A stem model
-- ['DCmotor/'](DCmotor/) - A model of a brushed DC motor, contains a macro for simulating its rotation
-- ['motor/'](motor/) - A model of a thermic motor, contains a macro for simulating the cycles
-
+- [`DCmotor/`](DCmotor/) - A model of a brushed DC motor, contains a macro for simulating its rotation
+- [`motor/`](motor/) - A model of a thermic motor, contains a macro for simulating the cycles
+- [`DJ/`](DJ/) - A blocky statue of streamer Daniel Jones
 ## Requirements
 
 - FreeCAD to open `.FCStd` files
